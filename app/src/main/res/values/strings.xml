@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Extension Manager</string>
+    <string name="button">Select file</string>
 </resources>
